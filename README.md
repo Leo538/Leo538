@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# 👋 Bienvenido a mi Repositorio
-
 ¡Hola! Soy Leonel Barros 😊, un apasionado de la tecnología, la programación y el aprendizaje continuo. Actualmente, estoy desarrollando habilidades en [tecnologías principales que estás aprendiendo, como Java, HTML, CSS, etc.] 📚, y estoy comprometido en mejorar cada día para alcanzar mis metas profesionales. 🚀
 
 ## 👤 Sobre Mí
