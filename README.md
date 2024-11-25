@@ -35,8 +35,8 @@ El propósito de este proyecto es:
 - Sistema de categorías y etiquetas para organizar el contenido.
 - Comentarios en cada publicación para fomentar la interacción.
 - Panel de administración para gestionar usuarios y contenido.
-- 
-- ## Página_Web
+  
+ ## Página_Web
 
 Este repositorio contiene **Página_Web**, una plataforma web diseñada para informar sobre los candidatos y eventos relacionados con las elecciones universitarias 2024.
 
