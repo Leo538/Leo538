@@ -36,15 +36,15 @@ El propósito de este proyecto es:
 - Comentarios en cada publicación para fomentar la interacción.
 - Panel de administración para gestionar usuarios y contenido.
 - 
-- # **Página_Web**
+- ## Página_Web
 
 Este repositorio contiene **Página_Web**, una plataforma web diseñada para informar sobre los candidatos y eventos relacionados con las elecciones universitarias 2024.
 
-## **Descripción del Proyecto**
+## Descripción del Proyecto
 
 **Página_Web** es una aplicación web que busca proporcionar un espacio centralizado donde los estudiantes puedan conocer a los candidatos, sus biografías, propuestas y los eventos de campaña. Está diseñada para ser intuitiva, accesible y fomentar la participación activa en el proceso electoral.
 
-## **Objetivos del Proyecto**
+## Objetivos del Proyecto
 
 El propósito de este proyecto es:
 
@@ -52,7 +52,7 @@ El propósito de este proyecto es:
 - Centralizar los eventos relacionados con las elecciones en un calendario accesible.
 - Fomentar la interacción y participación mediante comentarios y foros.
 - Brindar herramientas para la gestión y actualización de la información en tiempo real.
-- ## **Impacto Esperado**
+- ## Impacto Esperado
 
 **Página_Web** busca ser una herramienta clave para fomentar la transparencia y el interés de los estudiantes en las elecciones universitarias, permitiendo una toma de decisiones informada y participativa.
 
