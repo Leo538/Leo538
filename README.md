@@ -35,7 +35,27 @@ El propósito de este proyecto es:
 - Sistema de categorías y etiquetas para organizar el contenido.
 - Comentarios en cada publicación para fomentar la interacción.
 - Panel de administración para gestionar usuarios y contenido.
+- 
+- # **Página_Web**
+
+Este repositorio contiene **Página_Web**, una plataforma web diseñada para informar sobre los candidatos y eventos relacionados con las elecciones universitarias 2024.
+
+## **Descripción del Proyecto**
+
+**Página_Web** es una aplicación web que busca proporcionar un espacio centralizado donde los estudiantes puedan conocer a los candidatos, sus biografías, propuestas y los eventos de campaña. Está diseñada para ser intuitiva, accesible y fomentar la participación activa en el proceso electoral.
+
+## **Objetivos del Proyecto**
+
+El propósito de este proyecto es:
+
+- Informar a los estudiantes sobre los candidatos y sus propuestas de forma clara y organizada.
+- Centralizar los eventos relacionados con las elecciones en un calendario accesible.
+- Fomentar la interacción y participación mediante comentarios y foros.
+- Brindar herramientas para la gestión y actualización de la información en tiempo real.
+- ## **Impacto Esperado**
+
+**Página_Web** busca ser una herramienta clave para fomentar la transparencia y el interés de los estudiantes en las elecciones universitarias, permitiendo una toma de decisiones informada y participativa.
 
 ---
 
-Este README te ayuda a comunicar claramente el propósito y alcance de tu proyecto Laminet. Puedes modificar o expandirlo a medida que desarrollas más funcionalidades en el blog.
+
