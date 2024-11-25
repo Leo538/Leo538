@@ -38,7 +38,7 @@ El propósito de este proyecto es:
   
  ## Página_Web
 
-Este repositorio contiene **Página_Web**, una plataforma web diseñada para informar sobre los candidatos y eventos relacionados con las elecciones universitarias 2024.
+Este repositorio contiene **Página_Web**, una plataforma web diseñada para informar sobre los candidatos y eventos relacionados con las elecciones universitarias UTA 2024.
 
 ## Descripción del Proyecto
 
