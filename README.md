@@ -62,10 +62,6 @@ Proyecto académico de simulación financiera para trabajar con créditos e inve
 
 **Tecnologías:** .NET · Angular · PostgreSQL
 
-### 📖 Comprensión lectora adaptativa
-
-Proyecto de investigación orientado a adaptar progresivamente las lecturas y actividades según el desempeño del estudiante.
-
 **Áreas de interés:** aprendizaje adaptativo · inteligencia artificial · desarrollo de software
 
 ### ✍️ Laminet
