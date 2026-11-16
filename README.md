@@ -1,59 +1,54 @@
-![Leonel Barros · Ingeniería de Software · Ambato, Ecuador](./Portafolio%20nocturno%20entre%20monta%C3%B1as%20andinas.png)
+![Leonel Barros, Software Engineering Student in Ambato, Ecuador](./assets/profile-banner.png)
 
-**Desarrollo full stack · Estudiante de Ingeniería de Software en la Universidad Técnica de Ambato**
+**Software Engineering Student at Universidad Técnica de Ambato**  
+Ambato, Ecuador · Full-stack development with C#, Angular, and SQL
 
-Trabajo en aplicaciones web, APIs y bases de datos relacionales. En mis prácticas
-en **Ambacar**, trabajé en **AMBYSOFT** con interfaces en Angular, lógica de negocio
-en C#/.NET y consultas en Oracle.
+I build web applications, APIs, and tools that work with relational data. During my internship at **Ambacar**, I contributed to the **General Parameters** and **Entities** modules of AMBYSOFT, working on Angular interfaces, C#/.NET business logic, and Oracle queries.
 
-[Ver mi portafolio](https://github.com/Leo538/My-Profile) ·
-[Contactarme](mailto:lozadaleonel15@gmail.com)
+[Explore my portfolio project →](https://github.com/Leo538/My-Profile) &nbsp;·&nbsp; [Get in touch →](mailto:lozadaleonel15@gmail.com)
 
-## Tecnologías
+## Featured projects
 
-![C#](https://img.shields.io/badge/C%23-18263A?style=flat-square)
-![.NET](https://img.shields.io/badge/.NET-18263A?style=flat-square&logo=dotnet&logoColor=F2B45D)
-![Angular](https://img.shields.io/badge/Angular-18263A?style=flat-square&logo=angular&logoColor=F2B45D)
-![TypeScript](https://img.shields.io/badge/TypeScript-18263A?style=flat-square&logo=typescript&logoColor=F2B45D)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18263A?style=flat-square&logo=postgresql&logoColor=F2B45D)
-![Oracle](https://img.shields.io/badge/Oracle-18263A?style=flat-square)
-![Git](https://img.shields.io/badge/Git-18263A?style=flat-square&logo=git&logoColor=F2B45D)
+[![FinanSmart — Loan and investment simulator with French and German amortization](./assets/finansmart.png)](https://github.com/Leo538/FinanSmart)
 
-| Área | Con qué he trabajado |
-| --- | --- |
-| **Frontend** | Angular, TypeScript, HTML, SCSS y Tailwind CSS |
-| **Backend** | C#, ASP.NET Core, Node.js, Express y Socket.IO |
-| **Bases de datos** | SQL, PostgreSQL y Oracle |
-| **Calidad y herramientas** | Pruebas automatizadas, SonarQube, Git y Docker |
-| **Visualización y procesamiento** | Three.js, Python y OpenCV |
+[![SICOP — Institutional policy management with legal and financial review](./assets/sicop.png)](https://github.com/Leo538/Proyecto-SICOP)
 
-## Proyectos destacados
+[![ChatQuality — Real-time chat, video calls, and automated tests](./assets/chatquality.png)](https://github.com/Leo538/ChatQuality)
 
-| Proyecto | Qué hace | Tecnologías |
-| --- | --- | --- |
-| **[FinanSmart](https://github.com/Leo538/FinanSmart)** | Simula créditos e inversiones y permite comparar los sistemas de amortización francés y alemán. | Angular · ASP.NET Core · PostgreSQL |
-| **[SICOP](https://github.com/Leo538/Proyecto-SICOP)** | Organiza la gestión de pólizas, desde el registro hasta la revisión jurídica y la validación financiera. | Ver detalles en el repositorio |
-| **[ChatQuality](https://github.com/Leo538/ChatQuality)** | Integra chat y videollamadas con validación de mensajes, límites de envío y pruebas automatizadas. | Angular · TypeScript · Express · Socket.IO · WebRTC |
+**More projects**  
+[Irrigation System](https://github.com/Leo538/Vinculacion-Sistema-Riego) · [AgroPay](https://github.com/Leo538/AgroPay) · [RGB Lab](https://github.com/Leo538/Laboratorio-rgb) · [Novacore](https://github.com/Leo538/Novacore)
 
-### Más proyectos
+## Technologies I work with
 
-- **[Sistema de Riego](https://github.com/Leo538/Vinculacion-Sistema-Riego)** · Recomendación de riego a partir de las condiciones del cultivo.
-- **[AgroPay](https://github.com/Leo538/AgroPay)** · Aplicación móvil para gestionar productos, pedidos y comprobantes de pago.
-- **[Laboratorio RGB](https://github.com/Leo538/Laboratorio-rgb)** · Ajuste de canales de color y comparación de histogramas de imágenes.
-- **[Novacore](https://github.com/Leo538/Novacore)** · Interfaz web desarrollada con Angular y TypeScript.
+**Frontend**  
+![Angular](https://img.shields.io/badge/Angular-14233A?style=flat-square&logo=angular&logoColor=F5B55B)
+![TypeScript](https://img.shields.io/badge/TypeScript-14233A?style=flat-square&logo=typescript&logoColor=F5B55B)
+![SCSS](https://img.shields.io/badge/SCSS-14233A?style=flat-square&logo=sass&logoColor=F5B55B)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-14233A?style=flat-square&logo=tailwindcss&logoColor=F5B55B)
+![Three.js](https://img.shields.io/badge/Three.js-14233A?style=flat-square&logo=threedotjs&logoColor=F5B55B)
 
-## Experiencia
+**Backend and databases**  
+![C#](https://img.shields.io/badge/C%23-14233A?style=flat-square)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-14233A?style=flat-square&logo=dotnet&logoColor=F5B55B)
+![Node.js](https://img.shields.io/badge/Node.js-14233A?style=flat-square&logo=nodedotjs&logoColor=F5B55B)
+![Express](https://img.shields.io/badge/Express-14233A?style=flat-square&logo=express&logoColor=F5B55B)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-14233A?style=flat-square&logo=socketdotio&logoColor=F5B55B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14233A?style=flat-square&logo=postgresql&logoColor=F5B55B)
+![Oracle](https://img.shields.io/badge/Oracle-14233A?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-14233A?style=flat-square)
 
-**Ambacar S.A. · Prácticas preprofesionales de Desarrollo de Software**
+**Testing and tools**  
+![Git](https://img.shields.io/badge/Git-14233A?style=flat-square&logo=git&logoColor=F5B55B)
+![Docker](https://img.shields.io/badge/Docker-14233A?style=flat-square&logo=docker&logoColor=F5B55B)
+![SonarQube](https://img.shields.io/badge/SonarQube-14233A?style=flat-square&logo=sonarqube&logoColor=F5B55B)
+![Python](https://img.shields.io/badge/Python-14233A?style=flat-square&logo=python&logoColor=F5B55B)
+![OpenCV](https://img.shields.io/badge/OpenCV-14233A?style=flat-square&logo=opencv&logoColor=F5B55B)
 
-Trabajé en funcionalidades de **AMBYSOFT**, en los módulos de **Parámetros generales y Entidades**.
-Usé Angular, C#/.NET y Oracle, con Git para el control de versiones y herramientas
-como MediatR y FluentValidation en el backend.
+<details>
+<summary><strong>Certifications and training</strong></summary>
 
-## Insignias y certificaciones
+- **freeCodeCamp** · Back End Development and APIs; Relational Database
+- **freeCodeCamp and Microsoft** · Foundational C# with Microsoft
+- **Cisco Networking Academy** · Introduction to IoT; Network Support and Security
 
-| Emisor | Credenciales |
-| --- | --- |
-| **freeCodeCamp** | Back End Development and APIs · Relational Database |
-| **freeCodeCamp y Microsoft** | Foundational C# with Microsoft |
-| **Cisco Networking Academy** | Introduction to IoT · Network Support and Security |
+</details>
