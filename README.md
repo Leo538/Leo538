@@ -1,4 +1,4 @@
-![Leonel Barros · Ingeniería de Software · Ambato, Ecuador](./assets/portada-leo.png)
+![Leonel Barros · Ingeniería de Software · Ambato, Ecuador](./Portafolio%20nocturno%20entre%20monta%C3%B1as%20andinas.png)
 
 **Desarrollo full stack · Estudiante de Ingeniería de Software en la Universidad Técnica de Ambato**
 
