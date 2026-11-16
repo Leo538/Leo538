@@ -1,108 +1,59 @@
-# 👋 Hola, soy Leonel Barros
+![Leonel Barros · Ingeniería de Software · Ambato, Ecuador](./assets/portada-leo.png)
 
-![Presentación animada](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&pause=1300&color=14B8A6&width=650&height=60&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Aprendiendo+y+creando+proyectos;C%23+%7C+.NET+%7C+Angular;Un+proyecto+a+la+vez)
+**Desarrollo full stack · Estudiante de Ingeniería de Software en la Universidad Técnica de Ambato**
 
-![Programador animado](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+Trabajo en aplicaciones web, APIs y bases de datos relacionales. En mis prácticas
+en **Ambacar**, trabajé en **AMBYSOFT** con interfaces en Angular, lógica de negocio
+en C#/.NET y consultas en Oracle.
 
-### 🎓 Octavo semestre · Universidad Técnica de Ambato
-📍 Ambato, Ecuador
+[Ver mi portafolio](https://github.com/Leo538/My-Profile) ·
+[Contactarme](mailto:lozadaleonel15@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/leonel-barros-75b655264/)
-[![GitHub](https://img.shields.io/badge/GitHub-Mis_proyectos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leo538?tab=repositories)
+## Tecnologías
 
----
+![C#](https://img.shields.io/badge/C%23-18263A?style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-18263A?style=flat-square&logo=dotnet&logoColor=F2B45D)
+![Angular](https://img.shields.io/badge/Angular-18263A?style=flat-square&logo=angular&logoColor=F2B45D)
+![TypeScript](https://img.shields.io/badge/TypeScript-18263A?style=flat-square&logo=typescript&logoColor=F2B45D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18263A?style=flat-square&logo=postgresql&logoColor=F2B45D)
+![Oracle](https://img.shields.io/badge/Oracle-18263A?style=flat-square)
+![Git](https://img.shields.io/badge/Git-18263A?style=flat-square&logo=git&logoColor=F2B45D)
 
-## 💻 Sobre mí
+| Área | Con qué he trabajado |
+| --- | --- |
+| **Frontend** | Angular, TypeScript, HTML, SCSS y Tailwind CSS |
+| **Backend** | C#, ASP.NET Core, Node.js, Express y Socket.IO |
+| **Bases de datos** | SQL, PostgreSQL y Oracle |
+| **Calidad y herramientas** | Pruebas automatizadas, SonarQube, Git y Docker |
+| **Visualización y procesamiento** | Three.js, Python y OpenCV |
 
-Soy estudiante de **octavo semestre de Ingeniería de Software** en la **Universidad Técnica de Ambato**. Me gusta aprender creando aplicaciones, resolver problemas y mejorar mis habilidades con cada proyecto.
+## Proyectos destacados
 
-Durante mi formación he trabajado en proyectos académicos y realizado prácticas preprofesionales en desarrollo de software.
+| Proyecto | Qué hace | Tecnologías |
+| --- | --- | --- |
+| **[FinanSmart](https://github.com/Leo538/FinanSmart)** | Simula créditos e inversiones y permite comparar los sistemas de amortización francés y alemán. | Angular · ASP.NET Core · PostgreSQL |
+| **[SICOP](https://github.com/Leo538/Proyecto-SICOP)** | Organiza la gestión de pólizas, desde el registro hasta la revisión jurídica y la validación financiera. | Ver detalles en el repositorio |
+| **[ChatQuality](https://github.com/Leo538/ChatQuality)** | Integra chat y videollamadas con validación de mensajes, límites de envío y pruebas automatizadas. | Angular · TypeScript · Express · Socket.IO · WebRTC |
 
-- 🛠️ Me interesan el desarrollo web y la programación orientada a objetos.
-- 🌱 Sigo fortaleciendo mis conocimientos en **C#, .NET, Angular y bases de datos**.
-- 🤖 Estoy aprendiendo sobre inteligencia artificial y sus aplicaciones.
-- 🤝 Me interesa colaborar en proyectos donde pueda aportar y seguir aprendiendo.
+### Más proyectos
 
----
+- **[Sistema de Riego](https://github.com/Leo538/Vinculacion-Sistema-Riego)** · Recomendación de riego a partir de las condiciones del cultivo.
+- **[AgroPay](https://github.com/Leo538/AgroPay)** · Aplicación móvil para gestionar productos, pedidos y comprobantes de pago.
+- **[Laboratorio RGB](https://github.com/Leo538/Laboratorio-rgb)** · Ajuste de canales de color y comparación de histogramas de imágenes.
+- **[Novacore](https://github.com/Leo538/Novacore)** · Interfaz web desarrollada con Angular y TypeScript.
 
-## 🧰 Tecnologías con las que he trabajado
+## Experiencia
 
-### Desarrollo
+**Ambacar S.A. · Prácticas preprofesionales de Desarrollo de Software**
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
+Trabajé en funcionalidades de **AMBYSOFT**, en los módulos de **Parámetros generales y Entidades**.
+Usé Angular, C#/.NET y Oracle, con Git para el control de versiones y herramientas
+como MediatR y FluentValidation en el backend.
 
-### Bases de datos y herramientas
+## Insignias y certificaciones
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0F766E?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
-
-También he utilizado **Java y Python** durante mi formación académica.
-
----
-
-## 🚀 Proyectos en los que he trabajado
-
-### 💰 FinanSmart
-
-Proyecto académico de simulación financiera para trabajar con créditos e inversiones.
-
-- Simulación de créditos con los sistemas **Francés y Alemán**.
-- Comparación de tablas de pagos.
-- Trabajo con productos y tasas de inversión.
-
-**Tecnologías:** .NET · Angular · PostgreSQL
-
-**Áreas de interés:** aprendizaje adaptativo · inteligencia artificial · desarrollo de software
-
-### ✍️ Laminet
-
-Proyecto de blog web para compartir artículos, ideas y contenidos.
-
-[![Explorar proyectos](https://img.shields.io/badge/Explorar_mis_repositorios-14B8A6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leo538?tab=repositories)
-
----
-
-## 💼 Experiencia en prácticas
-
-### Practicante de Desarrollo de Software — Ambacar S.A.
-
-Prácticas preprofesionales como parte de mi formación universitaria.
-
-- Desarrollo y mantenimiento de funcionalidades para **AMBYSOFT**.
-- Implementación de lógica de negocio con **C# y .NET**.
-- Trabajo con interfaces en **Angular** y consultas en **Oracle**.
-- Revisión, corrección y mejora de funcionalidades.
-- Control de versiones con **Git**.
-- Aplicación de inyección de dependencias, **MediatR** y **FluentValidation**.
-
----
-
-## 📚 Aprendizaje continuo
-
-Complemento mi formación universitaria con cursos y proyectos prácticos en:
-
-- Bases de datos relacionales — **freeCodeCamp**.
-- Desarrollo con **C#**.
-- Fundamentos y aplicaciones de **inteligencia artificial**.
-
----
-
-## 🤝 Conectemos
-
-Me interesa compartir ideas, aprender de otros y participar en proyectos que me ayuden a crecer como desarrollador.
-
-[LinkedIn](https://www.linkedin.com/in/leonel-barros-75b655264/) · [GitHub](https://github.com/Leo538)
-
----
-
-> 🌱 Aprender, construir y mejorar. Un proyecto a la vez.
+| Emisor | Credenciales |
+| --- | --- |
+| **freeCodeCamp** | Back End Development and APIs · Relational Database |
+| **freeCodeCamp y Microsoft** | Foundational C# with Microsoft |
+| **Cisco Networking Academy** | Introduction to IoT · Network Support and Security |
