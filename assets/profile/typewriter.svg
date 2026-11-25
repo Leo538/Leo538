@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="564" height="42" viewBox="0 0 564 42" role="img" aria-labelledby="phrases">
+  <title id="phrases">Full-stack development with C#/.NET, Angular, and SQL. Software Engineering student. Building web apps and APIs from Ambato</title>
+  <defs>
+    <linearGradient id="badge" x2="1" y2="0">
+      <stop stop-color="#10203a"/><stop offset=".5" stop-color="#1a2940"/><stop offset="1" stop-color="#10203a"/>
+    </linearGradient>
+    <linearGradient id="shine" x2="1" y2="0">
+      <stop stop-color="#5273a0" stop-opacity=".28"/><stop offset=".48" stop-color="#d6a55e" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#5273a0" stop-opacity=".28"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .phrase { visibility: hidden; }
+    .first { visibility: visible; }
+    @media (prefers-reduced-motion: no-preference) {
+      .phrase {
+        visibility: hidden;
+        animation: phrase-window 21s step-end infinite;
+        animation-delay: var(--start);
+      }
+      .letter {
+        opacity: 0;
+        animation: type-letter 21s step-end infinite;
+        animation-delay: calc(var(--start) + var(--letter) * 44ms);
+      }
+    }
+    @keyframes phrase-window {
+      0% { visibility: visible; }
+      32.7%, 100% { visibility: hidden; }
+    }
+    @keyframes type-letter {
+      0% { opacity: 1; }
+      33.333%, 100% { opacity: 0; }
+    }
+  </style>
+  <rect x="1" y="1" width="562" height="40" rx="20" fill="url(#badge)" stroke="url(#shine)"/>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-weight="600" font-size="19" fill="#f8e8ce" text-anchor="middle">
+    <text class="phrase first" style="--start:0s" x="282" y="28" xml:space="preserve"><tspan class="letter" style="--letter:0">F</tspan><tspan class="letter" style="--letter:1">u</tspan><tspan class="letter" style="--letter:2">l</tspan><tspan class="letter" style="--letter:3">l</tspan><tspan class="letter" style="--letter:4">-</tspan><tspan class="letter" style="--letter:5">s</tspan><tspan class="letter" style="--letter:6">t</tspan><tspan class="letter" style="--letter:7">a</tspan><tspan class="letter" style="--letter:8">c</tspan><tspan class="letter" style="--letter:9">k</tspan><tspan class="letter" style="--letter:10"> </tspan><tspan class="letter" style="--letter:11">d</tspan><tspan class="letter" style="--letter:12">e</tspan><tspan class="letter" style="--letter:13">v</tspan><tspan class="letter" style="--letter:14">e</tspan><tspan class="letter" style="--letter:15">l</tspan><tspan class="letter" style="--letter:16">o</tspan><tspan class="letter" style="--letter:17">p</tspan><tspan class="letter" style="--letter:18">m</tspan><tspan class="letter" style="--letter:19">e</tspan><tspan class="letter" style="--letter:20">n</tspan><tspan class="letter" style="--letter:21">t</tspan><tspan class="letter" style="--letter:22"> </tspan><tspan class="letter" style="--letter:23">w</tspan><tspan class="letter" style="--letter:24">i</tspan><tspan class="letter" style="--letter:25">t</tspan><tspan class="letter" style="--letter:26">h</tspan><tspan class="letter" style="--letter:27"> </tspan><tspan class="letter" style="--letter:28">C</tspan><tspan class="letter" style="--letter:29">#</tspan><tspan class="letter" style="--letter:30">/</tspan><tspan class="letter" style="--letter:31">.</tspan><tspan class="letter" style="--letter:32">N</tspan><tspan class="letter" style="--letter:33">E</tspan><tspan class="letter" style="--letter:34">T</tspan><tspan class="letter" style="--letter:35">,</tspan><tspan class="letter" style="--letter:36"> </tspan><tspan class="letter" style="--letter:37">A</tspan><tspan class="letter" style="--letter:38">n</tspan><tspan class="letter" style="--letter:39">g</tspan><tspan class="letter" style="--letter:40">u</tspan><tspan class="letter" style="--letter:41">l</tspan><tspan class="letter" style="--letter:42">a</tspan><tspan class="letter" style="--letter:43">r</tspan><tspan class="letter" style="--letter:44">,</tspan><tspan class="letter" style="--letter:45"> </tspan><tspan class="letter" style="--letter:46">a</tspan><tspan class="letter" style="--letter:47">n</tspan><tspan class="letter" style="--letter:48">d</tspan><tspan class="letter" style="--letter:49"> </tspan><tspan class="letter" style="--letter:50">S</tspan><tspan class="letter" style="--letter:51">Q</tspan><tspan class="letter" style="--letter:52">L</tspan></text>
+<text class="phrase" style="--start:7s" x="282" y="28" xml:space="preserve"><tspan class="letter" style="--letter:0">S</tspan><tspan class="letter" style="--letter:1">o</tspan><tspan class="letter" style="--letter:2">f</tspan><tspan class="letter" style="--letter:3">t</tspan><tspan class="letter" style="--letter:4">w</tspan><tspan class="letter" style="--letter:5">a</tspan><tspan class="letter" style="--letter:6">r</tspan><tspan class="letter" style="--letter:7">e</tspan><tspan class="letter" style="--letter:8"> </tspan><tspan class="letter" style="--letter:9">E</tspan><tspan class="letter" style="--letter:10">n</tspan><tspan class="letter" style="--letter:11">g</tspan><tspan class="letter" style="--letter:12">i</tspan><tspan class="letter" style="--letter:13">n</tspan><tspan class="letter" style="--letter:14">e</tspan><tspan class="letter" style="--letter:15">e</tspan><tspan class="letter" style="--letter:16">r</tspan><tspan class="letter" style="--letter:17">i</tspan><tspan class="letter" style="--letter:18">n</tspan><tspan class="letter" style="--letter:19">g</tspan><tspan class="letter" style="--letter:20"> </tspan><tspan class="letter" style="--letter:21">s</tspan><tspan class="letter" style="--letter:22">t</tspan><tspan class="letter" style="--letter:23">u</tspan><tspan class="letter" style="--letter:24">d</tspan><tspan class="letter" style="--letter:25">e</tspan><tspan class="letter" style="--letter:26">n</tspan><tspan class="letter" style="--letter:27">t</tspan></text>
+<text class="phrase" style="--start:14s" x="282" y="28" xml:space="preserve"><tspan class="letter" style="--letter:0">B</tspan><tspan class="letter" style="--letter:1">u</tspan><tspan class="letter" style="--letter:2">i</tspan><tspan class="letter" style="--letter:3">l</tspan><tspan class="letter" style="--letter:4">d</tspan><tspan class="letter" style="--letter:5">i</tspan><tspan class="letter" style="--letter:6">n</tspan><tspan class="letter" style="--letter:7">g</tspan><tspan class="letter" style="--letter:8"> </tspan><tspan class="letter" style="--letter:9">w</tspan><tspan class="letter" style="--letter:10">e</tspan><tspan class="letter" style="--letter:11">b</tspan><tspan class="letter" style="--letter:12"> </tspan><tspan class="letter" style="--letter:13">a</tspan><tspan class="letter" style="--letter:14">p</tspan><tspan class="letter" style="--letter:15">p</tspan><tspan class="letter" style="--letter:16">s</tspan><tspan class="letter" style="--letter:17"> </tspan><tspan class="letter" style="--letter:18">a</tspan><tspan class="letter" style="--letter:19">n</tspan><tspan class="letter" style="--letter:20">d</tspan><tspan class="letter" style="--letter:21"> </tspan><tspan class="letter" style="--letter:22">A</tspan><tspan class="letter" style="--letter:23">P</tspan><tspan class="letter" style="--letter:24">I</tspan><tspan class="letter" style="--letter:25">s</tspan><tspan class="letter" style="--letter:26"> </tspan><tspan class="letter" style="--letter:27">f</tspan><tspan class="letter" style="--letter:28">r</tspan><tspan class="letter" style="--letter:29">o</tspan><tspan class="letter" style="--letter:30">m</tspan><tspan class="letter" style="--letter:31"> </tspan><tspan class="letter" style="--letter:32">A</tspan><tspan class="letter" style="--letter:33">m</tspan><tspan class="letter" style="--letter:34">b</tspan><tspan class="letter" style="--letter:35">a</tspan><tspan class="letter" style="--letter:36">t</tspan><tspan class="letter" style="--letter:37">o</tspan></text>
+  </g>
+</svg>
