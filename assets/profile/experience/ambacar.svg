@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="416" height="224" viewBox="0 0 416 224" role="img" aria-labelledby="title description">
+  <title id="title">Ambacar · AMBYSOFT</title>
+  <desc id="description">Software development internship. Contributed to the General Parameters and Entities modules through Angular interfaces, C#/.NET business logic, Oracle queries, and fixes to existing features. Technologies include Angular, C#/.NET, Oracle, MediatR, FluentValidation, and Git.</desc>
+  <defs>
+    <linearGradient id="surface" x2="1" y2="1">
+      <stop stop-color="#172b47"/><stop offset=".53" stop-color="#0b192d"/><stop offset="1" stop-color="#16243a"/>
+    </linearGradient>
+    <linearGradient id="rim" x2="1" y2="1">
+      <stop stop-color="#ddbd8c" stop-opacity=".8"/><stop offset=".36" stop-color="#637ca7" stop-opacity=".54"/><stop offset=".78" stop-color="#375273" stop-opacity=".57"/><stop offset="1" stop-color="#ecaf56" stop-opacity=".72"/>
+    </linearGradient>
+    <radialGradient id="warmth" cx="1" cy="1" r=".98">
+      <stop stop-color="#f2af57" stop-opacity=".18"/><stop offset=".78" stop-color="#f2af57" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="tile" x2="0" y2="1">
+      <stop stop-color="#243b58"/><stop offset="1" stop-color="#142339"/>
+    </linearGradient>
+    <clipPath id="outline"><rect x="1" y="1" width="414" height="222" rx="18"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="414" height="222" rx="18" fill="url(#surface)"/>
+  <g clip-path="url(#outline)">
+    <rect width="416" height="224" fill="url(#warmth)"/>
+    <g fill="none" stroke="#dfa956" stroke-opacity=".18">
+      <path d="M310 242C321 196 354 210 375 185S414 180 440 151"/>
+      <path d="M326 245C343 209 364 221 386 195S426 186 452 161"/>
+      <path d="M347 247C363 218 382 231 401 208S437 198 463 177"/>
+    </g>
+  </g>
+  <rect x="1" y="1" width="414" height="222" rx="18" fill="none" stroke="url(#rim)"/>
+  <rect x="22" y="21" width="44" height="44" rx="11" fill="url(#tile)" stroke="#7186a5" stroke-opacity=".48"/>
+  <g fill="none" stroke="#f4b45a" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32" y="36" width="24" height="16" rx="3"/>
+    <path d="M39 36v-2a2 2 0 0 1 2-2h6a2 2 0 0 1 2 2v2M32 42h24M42 42v2h4v-2"/>
+  </g>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+    <text x="80" y="40" fill="#f8e8ce" font-size="20" font-weight="700">Ambacar · AMBYSOFT</text>
+    <text x="80" y="58" fill="#aec2df" font-size="12.5">Software development internship</text>
+    <path d="M22 79h372" stroke="#8da6c6" stroke-opacity=".35"/>
+    <text x="22" y="106" fill="#f4b45a" font-size="15" font-weight="650">General Parameters and Entities modules</text>
+    <text x="22" y="128" fill="#e4ecf6" font-size="13.5">Angular interfaces, C#/.NET business logic, Oracle</text>
+    <text x="22" y="147" fill="#e4ecf6" font-size="13.5">queries, and fixes to existing features.</text>
+    <g fill="url(#tile)" stroke="#567194" stroke-opacity=".56">
+      <rect x="22" y="169" width="58" height="23" rx="8"/>
+      <rect x="84" y="169" width="57" height="23" rx="8"/>
+      <rect x="145" y="169" width="51" height="23" rx="8"/>
+      <rect x="200" y="169" width="55" height="23" rx="8"/>
+      <rect x="259" y="169" width="97" height="23" rx="8"/>
+      <rect x="360" y="169" width="34" height="23" rx="8"/>
+    </g>
+    <g fill="#dce7f7" font-size="11" text-anchor="middle">
+      <text x="51" y="184.5">Angular</text>
+      <text x="112.5" y="184.5">C#/.NET</text>
+      <text x="170.5" y="184.5">Oracle</text>
+      <text x="227.5" y="184.5">MediatR</text>
+      <text x="307.5" y="184.5">FluentValidation</text>
+      <text x="377" y="184.5">Git</text>
+    </g>
+  </g>
+</svg>
